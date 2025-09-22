@@ -1,3 +1,4 @@
 # AHA Git Practice
 - this repository is for practicing git commands :) 
-- Du Du Du Du
+- so nothing special here
+- Du Du Du Du 
